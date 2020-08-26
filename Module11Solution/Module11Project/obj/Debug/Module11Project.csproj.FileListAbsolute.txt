@@ -1,0 +1,40 @@
+c:\C# 2015\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+c:\C# 2015\Module11Solution\Module11Project\bin\Debug\Module11Project.exe
+c:\C# 2015\Module11Solution\Module11Project\bin\Debug\Module11Project.pdb
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.csprojResolveAssemblyReference.cache
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.frmMath.resources
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.Properties.Resources.resources
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.GenerateResource.Cache
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+c:\C# 2015\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\bin\Debug\Module11Project.exe
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\bin\Debug\Module11Project.pdb
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.csprojResolveAssemblyReference.cache
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.frmMath.resources
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.Properties.Resources.resources
+C:\Users\talla\Desktop\C#\programming\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.GenerateResource.Cache
+C:\Users\talla\Desktop\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
+C:\Users\talla\Desktop\Module11Solution\Module11Project\bin\Debug\Module11Project.exe
+C:\Users\talla\Desktop\Module11Solution\Module11Project\bin\Debug\Module11Project.pdb
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.csprojResolveAssemblyReference.cache
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.frmMath.resources
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.Properties.Resources.resources
+C:\Users\talla\Desktop\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.GenerateResource.Cache
+C:\Users\talla\Desktop\ITD1253-Portfolio-TallawanJonilla\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+C:\Users\talla\Desktop\ITD1253-Portfolio-TallawanJonilla\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+C:\Users\talla\Desktop\ITD1253-Portfolio-TallawanJonilla\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\bin\Debug\Module11Project.exe.config
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\bin\Debug\Module11Project.exe
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\bin\Debug\Module11Project.pdb
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.csprojAssemblyReference.cache
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.frmMath.resources
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.Properties.Resources.resources
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.GenerateResource.cache
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.csproj.CoreCompileInputs.cache
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.exe
+D:\talla\Documents\school\PORTFOLIO\ITD1253-Portfolio-TallawanJonillaC#\Assignments\Hands-on & Labs\Module11ProgrammingJonillaTallawan\Module11Solution\Module11Project\obj\Debug\Module11Project.pdb
